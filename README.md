@@ -1,10 +1,10 @@
 ## Vortex-Design
 #### Materials for designing the game "Vortex"
 
-+ First stage: 
++ First stage - Runner Part: 
 <br><a href="https://ibb.co/XDQZCDz"><img src="https://i.ibb.co/zFMh4FS/Level-1-Running.jpg" alt="Level-1-Running" border="0"></a></br>
 
-+ First stage (digital):
++ First stage - Shooting Part:
 <br><a href="https://ibb.co/72y54wV"><img src="https://i.ibb.co/SRv8rh0/Level-1-Shooting.jpg" alt="Level-1-Shooting" border="0"></a></br>
 
 + Main Menu:
